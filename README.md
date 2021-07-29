@@ -1,7 +1,7 @@
 ### Hi there I'm Jacopo Boffelli 👋
+I'm a Computer Engineering Student
 
 ## ✉️ Find me on:
-
 
 <p align="center">
  <a href="https://www.linkedin.com/in/jacopo-boffelli-aa7b42171/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -9,6 +9,9 @@
 </p>
 
 <br />
+
+
+
 
 <!--
 **Jacopo98/Jacopo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
