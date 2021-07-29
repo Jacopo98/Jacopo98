@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jacopo98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Jacopo98" frameborder="0"></iframe>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopo98&show_icons=true&layout=compact
+ 
+</p>
 
 
