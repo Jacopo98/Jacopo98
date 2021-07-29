@@ -25,12 +25,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## &#x1f4c8; My GitHub Stats
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jacopo98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopo98)
 
-## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacopo98&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacopo98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
