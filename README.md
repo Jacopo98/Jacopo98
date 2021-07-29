@@ -12,10 +12,10 @@ I'm a Computer Engineering Student
 
 ## 💻 Projects:
 
-ArrancaBotta site: www.arrancabotta.it 
+<center>ArrancaBotta site: www.arrancabotta.it </center><br>
 <img src="http://www.arrancabotta.it/arrancalogo.png" alt="Logo" height="100" style="vertical-align:top; margin:4px"></a>
 
-Kepa site: http://www.kepa.it 
+<center>Kepa site: http://www.kepa.it </center><br>
 <img src="http://www.kepa.it/images/kepalogo.png" alt="Logo" height="100" style="vertical-align:top; margin:4px"></a>
 
 <!--
