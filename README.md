@@ -12,9 +12,11 @@ I'm a Computer Engineering Student
 
 ## 💻 Projects:
 
-ArrancaBotta site: www.arrancabotta.it <img src="http://www.arrancabotta.it/arrancalogo.png" alt="Logo" height="100" style="vertical-align:top; margin:4px"></a>
+ArrancaBotta site: www.arrancabotta.it 
+<img src="http://www.arrancabotta.it/arrancalogo.png" alt="Logo" height="100" style="vertical-align:top; margin:4px"></a>
 
-Kepa site: http://www.kepa.it <img src="http://www.kepa.it/images/kepalogo.png" alt="Logo" height="100" style="vertical-align:top; margin:4px"></a>
+Kepa site: http://www.kepa.it 
+<img src="http://www.kepa.it/images/kepalogo.png" alt="Logo" height="100" style="vertical-align:top; margin:4px"></a>
 
 <!--
 **Jacopo98/Jacopo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
